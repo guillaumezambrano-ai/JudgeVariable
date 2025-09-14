@@ -1,2 +1,2 @@
 # JudgeVariable
-Code for paper : "The Judge Variable"
+Code for paper : "The Variable Judge", JURIX 2025
